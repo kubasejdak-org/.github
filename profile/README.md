@@ -1,5 +1,9 @@
 # Repositories
 
+## Apps
+
+- [investing-pal](https://github.com/kubasejdak-org/investing-pal) - Family of tools for testing and tracking investing strategies
+
 ## Tools
 
 <details open>
