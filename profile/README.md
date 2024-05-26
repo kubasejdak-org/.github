@@ -4,6 +4,15 @@
 
 - [investing-pal](https://github.com/kubasejdak-org/investing-pal) - Family of tools for testing and tracking investing strategies
 
+## Libs
+
+<details open>
+  <summary>C/C++</summary>
+
+- [platform](https://github.com/kubasejdak-org/platform) - C/C++ application bootstrap layer for various hardware/OS platforms
+
+</details>
+
 ## Tools
 
 <details open>
