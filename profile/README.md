@@ -27,6 +27,7 @@
 <details open>
   <summary>GitHub Actions</summary>
 
+- [cmake-build-preset-action](https://github.com/kubasejdak-org/cmake-build-preset-action) - GitHub Action for building CMake presets
 - [docker-push-action](https://github.com/kubasejdak-org/docker-push-action) - GitHub Action for pushing Docker images
 - [docker-build-child-action](https://github.com/kubasejdak-org/docker-build-child-action) - GitHub Action for building Docker child images
 - [docker-build-base-action](https://github.com/kubasejdak-org/docker-build-base-action) - GitHub Action for building Docker base images
