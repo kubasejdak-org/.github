@@ -16,6 +16,8 @@
 
 ## Tools
 
+- [ansible](https://github.com/kubasejdak-org/ansible) - Homelab configuration using Ansible
+
 <details open>
   <summary>Docker</summary>
 
