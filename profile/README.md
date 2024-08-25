@@ -12,6 +12,7 @@
 - [hal*](https://github.com/kubasejdak-org/hal) - Hardware Abstraction Layer allowing to define product - PCB - drivers relations for application usage
 - [hal-drivers*](https://github.com/kubasejdak-org/hal-drivers) - Microchip drivers from various vendors implementing HAL abstract interfaces
 - [hal-interfaces*](https://github.com/kubasejdak-org/hal-interfaces) - C++ abstract interfaces for common embedded drivers used in HAL
+- [hal-linux*](https://github.com/kubasejdak-org/hal-linux) - Linux user-space drivers implementing HAL abstract interfaces
 - [liballocator*](https://github.com/kubasejdak-org/liballocator) - C++ memory allocator for embedded systems
 - [osal*](https://github.com/kubasejdak-org/osal) - Operating System Abstraction Layer for C/C++
 - [platform](https://github.com/kubasejdak-org/platform) - C/C++ application bootstrap layer for various hardware/OS platforms
