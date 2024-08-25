@@ -9,6 +9,7 @@
 <details open>
   <summary>C/C++</summary>
 
+- [hal*](https://github.com/kubasejdak-org/hal) - Hardware Abstraction Layer allowing to define product - PCB - drivers relations for application usage
 - [liballocator*](https://github.com/kubasejdak-org/liballocator) - C++ memory allocator for embedded systems
 - [osal*](https://github.com/kubasejdak-org/osal) - Operating System Abstraction Layer for C/C++
 - [platform](https://github.com/kubasejdak-org/platform) - C/C++ application bootstrap layer for various hardware/OS platforms
