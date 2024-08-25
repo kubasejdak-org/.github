@@ -9,9 +9,10 @@
 <details open>
   <summary>C/C++</summary>
 
-- [liballocator](https://github.com/kubasejdak-org/liballocator) - C++ memory allocator for embedded systems
-- [osal](https://github.com/kubasejdak-org/osal) - Operating System Abstraction Layer for C/C++
+- [liballocator*](https://github.com/kubasejdak-org/liballocator) - C++ memory allocator for embedded systems
+- [osal*](https://github.com/kubasejdak-org/osal) - Operating System Abstraction Layer for C/C++
 - [platform](https://github.com/kubasejdak-org/platform) - C/C++ application bootstrap layer for various hardware/OS platforms
+- [utils*](https://github.com/kubasejdak-org/utils) - C++ utility functions and modules, which can be reused in other projects
 
 </details>
 
