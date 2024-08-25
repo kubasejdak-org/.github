@@ -43,3 +43,5 @@
 - [valgrind-run-action](https://github.com/kubasejdak-org/valgrind-run-action) - GitHub Action for running binaries under valgrind
 
 </details>
+
+\* - significant rework planned
