@@ -20,6 +20,10 @@
 
 </details>
 
+## Personal
+
+- [kubasejdak.github.io](https://github.com/kubasejdak/kubasejdak.github.io) - Personal website
+
 ## Tools
 
 - [ansible](https://github.com/kubasejdak-org/ansible) - Homelab configuration using Ansible
