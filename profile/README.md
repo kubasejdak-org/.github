@@ -43,6 +43,7 @@
 - [docker-build-child-action](https://github.com/kubasejdak-org/docker-build-child-action) - GitHub Action for building Docker child images
 - [docker-build-base-action](https://github.com/kubasejdak-org/docker-build-base-action) - GitHub Action for building Docker base images
 - [docker-build-action](https://github.com/kubasejdak-org/docker-build-action) - GitHub Action for building Docker images
+- [mkdocs-publish-action](https://github.com/kubasejdak-org/mkdocs-publish-action) - GitHub Action for publishing MkDocs website to GitHub Pages
 - [openocd-run-action](https://github.com/kubasejdak-org/openocd-run-action) - GitHub Action for running binaries under OpenOCD
 - [valgrind-run-action](https://github.com/kubasejdak-org/valgrind-run-action) - GitHub Action for running binaries under valgrind
 
