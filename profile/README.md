@@ -43,6 +43,7 @@
 
 - [binary-run-action](https://github.com/kubasejdak-org/binary-run-action) - GitHub Action for running binaries
 - [clang-format-run-action](https://github.com/kubasejdak-org/clang-format-run-action) - GitHub Action for running clang-format
+- [clang-tidy-run-action](https://github.com/kubasejdak-org/clang-tidy-run-action) - GitHub Action for running clang-tidy
 - [cmake-build-preset-action](https://github.com/kubasejdak-org/cmake-build-preset-action) - GitHub Action for building CMake presets
 - [docker-push-action](https://github.com/kubasejdak-org/docker-push-action) - GitHub Action for pushing Docker images
 - [docker-build-child-action](https://github.com/kubasejdak-org/docker-build-child-action) - GitHub Action for building Docker child images
