@@ -3,6 +3,7 @@
 ## Apps
 
 - [investing-pal](https://github.com/kubasejdak-org/investing-pal) - Family of tools for testing and tracking investing strategies
+- [repops](https://github.com/kubasejdak-org/repops) - Tool for configuring, managing and automating file operations across multiple git repositories
 
 ## Libs
 
