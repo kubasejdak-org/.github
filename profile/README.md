@@ -27,9 +27,14 @@
 
 ## Tools
 
+<details open>
+  <summary>Configs</summary>
+
 - [ansible](https://github.com/kubasejdak-org/ansible) - Homelab configuration using Ansible
 - [dotfiles](https://github.com/kubasejdak/dotfiles.git) - Personal dotfiles and configs
 - [dotfiles-ai](https://github.com/kubasejdak-org/dotfiles-ai) - AI-related dotfiles and configs
+
+</details>
 
 <details open>
   <summary>Docker</summary>
