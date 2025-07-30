@@ -34,6 +34,7 @@
 
 - [docker-cpp](https://github.com/kubasejdak-org/docker-cpp) - Docker images providing development environment for C/C++ uploaded to Docker Hub
 - [docker-js](https://github.com/kubasejdak-org/docker-js) - Docker images with JavaScript tools uploaded to Docker Hub
+- [docker-python](https://github.com/kubasejdak-org/docker-python) - Docker images providing development environment for Python uploaded to Docker Hub
 - [docker-tests](https://github.com/kubasejdak-org/docker-tests) - Docker images used in tests uploaded to Docker Hub
 - [docker-tools](https://github.com/kubasejdak-org/docker-tools) - Docker images with tools or reusable content uploaded to Docker Hub
 
