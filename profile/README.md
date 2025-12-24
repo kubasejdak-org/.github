@@ -54,6 +54,7 @@
 - [clang-format-run-action](https://github.com/kubasejdak-org/clang-format-run-action) - GitHub Action for running clang-format
 - [clang-tidy-run-action](https://github.com/kubasejdak-org/clang-tidy-run-action) - GitHub Action for running clang-tidy
 - [cmake-build-preset-action](https://github.com/kubasejdak-org/cmake-build-preset-action) - GitHub Action for building CMake presets
+- [cpp-coverage-check-action](https://github.com/kubasejdak-org/cpp-coverage-check-action) - GitHub Action for checking code coverage in C++
 - [docker-build-action](https://github.com/kubasejdak-org/docker-build-action) - GitHub Action for building Docker images
 - [docker-build-base-action](https://github.com/kubasejdak-org/docker-build-base-action) - GitHub Action for building Docker base images
 - [docker-build-child-action](https://github.com/kubasejdak-org/docker-build-child-action) - GitHub Action for building Docker child images
