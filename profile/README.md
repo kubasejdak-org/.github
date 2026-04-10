@@ -2,9 +2,7 @@
 
 ## Apps
 
-- [ebook-utils](https://github.com/kubasejdak-org/ebook-utils) - Tool for extracting metadata from ebooks
 - [investing-pal](https://github.com/kubasejdak-org/investing-pal) - Family of tools for testing and tracking investing strategies
-- [repops](https://github.com/kubasejdak-org/repops) - Tool for configuring, managing, and automating file operations across multiple git repositories
 
 ## Libs
 
@@ -45,6 +43,14 @@
 - [docker-python](https://github.com/kubasejdak-org/docker-python) - Docker images providing development environment for Python uploaded to Docker Hub
 - [docker-tests](https://github.com/kubasejdak-org/docker-tests) - Docker images used in tests uploaded to Docker Hub
 - [docker-tools](https://github.com/kubasejdak-org/docker-tools) - Docker images with tools or reusable content uploaded to Docker Hub
+
+</details>
+
+<details open>
+  <summary>CLI</summary>
+
+- [ebook-utils](https://github.com/kubasejdak-org/ebook-utils) - Tool for extracting metadata from ebooks
+- [repops](https://github.com/kubasejdak-org/repops) - Tool for configuring, managing, and automating file operations across multiple git repositories
 
 </details>
 
