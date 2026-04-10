@@ -2,8 +2,9 @@
 
 ## Apps
 
+- [ebook-utils](https://github.com/kubasejdak-org/ebook-utils) - Tool for extracting metadata from ebooks
 - [investing-pal](https://github.com/kubasejdak-org/investing-pal) - Family of tools for testing and tracking investing strategies
-- [repops](https://github.com/kubasejdak-org/repops) - Tool for configuring, managing and automating file operations across multiple git repositories
+- [repops](https://github.com/kubasejdak-org/repops) - Tool for configuring, managing, and automating file operations across multiple git repositories
 
 ## Libs
 
