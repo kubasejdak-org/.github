@@ -32,6 +32,7 @@
 - [ansible](https://github.com/kubasejdak-org/ansible) - Homelab configuration using Ansible
 - [dotfiles](https://github.com/kubasejdak/dotfiles.git) - Personal dotfiles and configs
 - [dotfiles-ai](https://github.com/kubasejdak-org/dotfiles-ai) - AI-related dotfiles and configs
+- [repo-workspaces](https://github.com/kubasejdak-org/repo-workspaces) - Collection of Docker-based workspaces for repository groups
 
 </details>
 
